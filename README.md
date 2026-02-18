@@ -1,15 +1,35 @@
 ## Hi there 👋
 
-I’m a Senior Full-Stack Developer with 13+ years of hands-on experience building scalable web and mobile applications.
+I help businesses build scalable web and mobile platforms that are designed for growth — not just launch.
 
-My work spans PHP, Laravel, WordPress, React, React Native, and AWS, covering everything from backend architecture and APIs to modern web interfaces and cross-platform mobile apps (iOS & Android).
+With 13+ years of experience in product engineering, I’ve worked with startups, agencies, and growing companies to turn ideas into reliable, high-performance digital products.
 
-What I work on
-- Scalable web applications and backend systems
-- E-commerce platforms (custom builds, WooCommerce, Shopify integrations)
-- React & React Native applications for web and mobile
-- Custom WordPress plugins & themes
-- REST APIs, third-party integrations, and performance optimization
-- Cloud deployments on AWS
+My focus isn’t just development.
 
-I care deeply about clean, maintainable code, thoughtful architecture, and solving real-world problems. Most of the repositories here reflect production patterns, experiments, or reusable components from real projects.
+It’s architecture, scalability, and long-term maintainability.
+
+I specialize in building:
+
+- Custom web applications
+- Scalable SaaS platforms
+- E-commerce systems
+- Cross-platform mobile apps (iOS & Android)
+- Social & engagement-driven products
+
+Using modern, proven technologies including Laravel, React, and React Native.
+
+Over the years, I’ve:
+
+- Built production-ready web & mobile apps from scratch
+- Optimized and refactored large legacy systems
+- Developed scalable APIs and backend architectures
+- Delivered e-commerce platforms with custom integrations
+- Designed systems ready for user growth and performance demands
+
+I work comfortably across the full product lifecycle — from architecture planning and backend engineering to modern frontend interfaces and mobile app deployment.
+
+What clients value most is not just technical delivery — but clear communication, structured execution, and a long-term product mindset.
+
+If you’re building something serious — whether a business platform, SaaS product, or mobile application — I’m open to strategic conversations.
+
+📩 Let’s connect.
